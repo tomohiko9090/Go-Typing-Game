@@ -22,7 +22,7 @@ func ask(number int, question string) int {
 
   if question == input {
     fmt.Println("正解!")
-  　 //正解したら10を戻り値として返す
+    //正解したら10を戻り値として返す
     return 10
 
   } else {
